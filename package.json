@@ -1,0 +1,24 @@
+{
+  "name": "lessontwo_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chelseasworld09/express_lesson2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chelseasworld09/express_lesson2/issues"
+  },
+  "homepage": "https://github.com/chelseasworld09/express_lesson2#readme",
+  "dependencies": {
+    "nodemon": "^1.17.3"
+  }
+}
